@@ -6,7 +6,6 @@ from pygame import mixer
 
 # ------------------ INTRO BEGINS ------------------ #
 
-m
 
 intro = True
 starters = ["charmander", "squirtle", "bulbasaur"]
