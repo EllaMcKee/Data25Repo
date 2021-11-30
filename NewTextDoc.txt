@@ -1,3 +1,0 @@
-This is Git.
-Vamos a escribir en Python.
-Here's a change.
