@@ -26,4 +26,4 @@ def create_user_data(old_user_file, new_file_name):
 
 
 print(transform_user_details("user_details.csv"))
-create_user_data("user_details.csv", "new_user_data")
+create_user_data("user_details.csv", "new_user_data.csv")
